@@ -1,0 +1,15 @@
+{
+	"examples":[
+		{
+			"ACTION_NAME": "Search the internet",
+			"EXAMPLE": "Hey Astra, "
+		},
+		{
+			"ACTION_NAME": "Control Devices",
+			"EXAMPLE": "Hey Astra, turn my keyboard's lights off."
+		},
+		{
+			"ACTION_NAME": "Get Directions to anywhere on the planet."
+		}
+	]
+}
