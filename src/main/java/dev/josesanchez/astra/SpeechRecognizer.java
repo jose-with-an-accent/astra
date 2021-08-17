@@ -16,7 +16,8 @@ public class SpeechRecognizer {
 		// SourceDataLine speakers;
 
 		// try (Model model = new Model("");
-		// Recognizer recognizer = new Recognizer(model, 120000)) {
+		// Recognizer recog
+		nizer = new Recognizer(model, 120000)) {
 		// 	try {
 		// 		microphone = (TargetDataLine) AudioSystem.getLine(info);
 		// 		microphone.open(format);
